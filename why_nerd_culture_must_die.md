@@ -1,0 +1,44 @@
+
+[Why nerd culture must die](http://petewarden.com/2014/10/05/why-nerd-culture-must-die/) の翻訳です。
+
+# おたくカルチャーが死すべき理由
+
+最初のガールフレンドとは [MUD](http://en.wikipedia.org/wiki/MUD) で出会った。だから顔を見ようと７０００マイルの旅行をする羽目になった。１５歳のとき、紙バージョンの[ジャーゴン・ファイル](http://www.catb.org/jargon/html/)を読み、それは僕のバイブルになった。そこに書いてあったインターネットの説明を読んだだけで、それが世界を変えるとわかった。まだウェブすら無かったけれど、地元の大学にあった計算機室に借り物のアカウントで潜り込むや否や、僕は Usenet, FTP や Gopher の驚異に浸りこんだ。僕が進学先の大学を選んだ理由はかつてそこでチューリングが教鞭をとっていたからだし、[ARM チップの設計者](http://www.manchester.ac.uk/research/steve.furber/)の授業があるからだった。大学を出て最初についた仕事では初代ディアブロのプレステ1移植を手伝い、それから５年間をゲーム開発に費やした。GPU プログラミングの奥深くまで潜ってきた。ほぼ二十年、ハイテク大企業やスタートアップで働いた。コーディングがただただ好きで、その話を書くのに使った時間は知れない。僕は成人男子だけれど、いまだにダンジョンズ・アンド・ドラゴンズをやっている！
+
+何が言いたいかというと、おたくを名乗れる人間がいるとしたらそれは自分だということ。イギリスの田舎で育った孤独なティーンエイジャーにとって、[ハッカー某の肖像](http://www.catb.org/jargon/html/appendixb.html) を読むのは震えんばかりの興奮だったし、目を見開かされる思いだった。こんな人は見た事がなかったけれど、自分と似たような人が他にいるとわかって希望が生まれた。大学に通い始めてからは、おたくでいることにひねくれたプライドをもつ人を他にも何人か発見した。けれどそれはまだ珍しかったし、主流のカルチャーからはすっかり外れていた。なぜ大学を卒業した自分が銀行でなく払いの悪いゲームプログラミングの仕事についたのか、誰も本当にはわかっていなかった。僕がコンピュータの仕事をしていると言うと、ほとんどの人が目をしかめた。月日を経て、僕は同じ趣味を持つ仲間の輪を少しずつ広げた。SF、マンガ、ゲーム、そしてコンピュータ。おたくカルチャーが僕たちを互いに引き寄せた。そんな仲間の助けがあったから生き延びる事が出来た。けれど仲間を探すのは難しかった。僕たちはまだ、主流のカルチャーからずっと外れていた。
+
+この十年、状況は様変わりした。マンガのドラマ化はハリウッドの鉄板になった。指輪物語やゲーム・オブ・スローンズを通じファンタジーは恥ずかしがらずに誰もが楽しめるものになった。そしてたぶん一番重要なのは、今やおたくはカネを、そして権力や地位も持っているということだろう。世界で一番大きな、そして一番勢い良く成長している企業はおたくが経営し、おたくを雇っている。主流のカルチャーも、おたくいじめをやめ敬意を示すようになった。スタートアップはかっこいい。僕らは勝ったのだ。
+
+そして、そこに問題がある。僕らは未だに反乱軍のように振る舞っているけれど、今や僕らは帝国だ。数十年の時は僕たちのやり方はおおむね正しく、批判は間違っている事を証明した。だから他人に耳を貸さない僕らの習性は深く根付いている。それどころか、カルチャーに向けられた批判をやりかえすのが絆を深めるちょっと儀式になってすらいる。連中には僕らがやっていることなんて表面的にしかわかっていなかったから。誰かの批判を攻撃するのも、かつては大したことではなかった。一握りのフォーラムを読んでいる人以外にそうした論考が読まれる事はなったからだ。その内なる声も、今や大きな問題になる。おたくが本当の権力を振りかざしている。[GamerGate](http://www.polygon.com/2014/8/22/6057317/fez-developer-polytron-hacked-harassment) 事件はゲーマーの自分にとって恥ずべき出来事だった。けれど恐ろしいのは、その暴力的な物言いの底にある振る舞いが、自分たちのカルチャーに常在する何かと同じ感じがすること。それでいいという空気があることだ。ただ驚くしかない。その空気はあっという間に性的暴行や人命を脅かすところまで広がった。インテルのような主流の企業が私たちの突きつけた圧力に巻き込まれている。
+
+だから「シリコンバレーはおたくカルチャーで、おたくは生まれながらにして体育会系のの敵」というMark Andressen の言説はすごく違う感じがする。たしかに、僕らはかつて体育会系にいじめられたり無視されたりしていた。それはでも、自分たちにカネも力も無かった頃の話だ。今や僕らには権力があり、体育会系の連中は僕らを標的にするのではなく仲間とみなすのにやぶさかでない。僕はこれまでに一度か二度シリコンバレーの投資家に事業を売り込んだ事がある。彼らの多くはビジネスや金融の経歴を持っている。そこにはもちろんおたくもおり、そのおたくたちがカルチャーを取り仕切っている。けれどそのおたくは同時に御坊ちゃまMBAたちとすっかり仲良くやってもいる。同じ事はハイテク産業全体にあてはまる - ２０年前の体育会系は僕らの弁当代を巻き上げようとしていたけれど、今や僕らがエンジニアリングをする一方で文句も言わず事業開発の面倒を見てくれている。
+
+
+One of the things I love about nerd culture is how much it values evidence and checking facts. When I’m optimizing code, my intuition about which parts are slowest is often wildly wrong, so I’ve learned the hard way that I have to profile the hell out of it before I try to fix anything. It’s a core skill for dealing with computers, our gut feelings often don’t work in such an alien realm, so skepticism becomes a habit. What has surprised me is how we leave that habit behind when confronted with evidence about ourselves. Pretty much every statistic we can track has shown fewer women getting computer science degrees and working as engineers compared to the 80’s. It’s a basic fact that we’re an incredibly imbalanced industry in all sorts of ways, from race to class and gender, and we’re getting worse.
+
+
+おたくカルチャーの愛すべき要素の一つに、証拠や事実検証を重視する価値観がある。コードを最適化するとき、ここが一番遅いという自分の直感は大抵ひどく間違っている。何かを速くしたいならまず念入りにプロファイリングをしなければいけないと、痛い目に遭いながら学んできた。これはコンピュータを扱う仕事の核となる技術だ。異邦の地では直感があてにならない。だから疑り深さが習慣になる。なのに自分たちに関する証拠に噛み付くとき、自分たちがこの懐疑主義を置き去りにしてしまう様には目を丸くする。知りうるほとんど全ての数字が、コンピュータサイエンスの学位をとる女性、エンジニアリングの仕事につく女性が８０年代より少なくなったことを示している。人種、育ち、性別。ここがあらゆる形でひどくアンバランスな産業だというのは基本的な事実だ。そして状況は悪くなっている。
+
+
+I’m not claiming to know the answers, but you don’t have to be a social justice warrior to notice something is going very wrong somewhere. Even the Jargon File acknowledged, to paraphrase, that hackers routinely behave like assholes. Is it a crazy leap to imagine that this deeply-rooted tolerance of terrible behavior might drive people away?
+
+
+
+解決策を知っているというつもりはない。けれど社会正義の士でなくなって、どこかで何かが間違っていると意識することはできる。ジャーゴンファイルですら、言い回しは違うにしろ認めている。つまり、ハッカーはクソ野郎みたいになることがよくある。こう想像するのはおかしな事だろうか - この深く根付いたクソっぷりへのおおらかさが人々を遠ざけているのでは？
+
+When I look around, I see the culture we’ve built turning from a liberating revolution into a repressive incumbency. We’ve built magical devices, but we don’t care enough about protecting ordinary people from harm when they use them. We don’t care that a lot of the children out there with the potential to become amazing hackers are driven away at every stage in the larval process. We don’t care about the people who lose out when we disrupt the world, just the winners (who tend to look a lot like us).
+
+
+あたりを見回すと、自分たちの気づいたカルチャーが自由への革命から威圧的な義務へと姿を変えたのがわかる。僕たちは魔法のような機械を生み出した。けれど
+僕たちは不注意で、それを使う普通の人を傷つけないための安全策を怠った。僕たちは不注意で、すばらしいハッカー予備軍たる多くの子供たちを成長の各段階で追い出してしまった。僕たちは不注意で、世界をディスラプトしたとき失うものがある人を気にかけなかった。いい目を見る人のことをだけを考えていた。(だいたい自分達のような人々だ。）
+
+
+I’d always hoped we were more virtuous than the mainstream, but it turns out we just didn’t have enough power to cause much harm. Our ingrained sense of victimization has become a perverse justification for bullying. That’s why I’m calling time on nerd culture. It’s done wonderful things, but these days it’s like a crawling horror of a legacy codebase so riddled with problems the only rational decision is to deprecate it and build something better.
+
+
+主流の連中より高潔でありたいと、いつも願っていた。けれど蓋を開ければ力不足で大した害にならないだけだった。体に染み付いた被害者意識は、僕らがいじめ行為に至る際の非道な言い訳と成り果てた。だから言いたい。おたくカルチャーは終わりにしよう。おたくカルチャーは素晴らしいことを色々してきたけれど、このごろはレガシーコードの中を這い回る、問題だらけでぼこぼこになったお化けみたいだ。まともな答えは、これを終わらせてもっと良い何かを作り出すことしかない。
+
+What would something better look like? The Maker movement gives me hope, because including all the kids we’re missing is built in from the start. Whatever the future becomes, the bottom line is we need to value being a decent human being a hell of a lot more than we do now. Our toleration of asshole behavior must end, and it’s such an integral part of nerd culture that nuking the entire thing from orbit is the only way to be sure.
+
+
+もっと良い何かとはどんなものだろう？メーカー・ムーブメントには希望を感じる。僕らが巻き込むのに失敗した子供たち皆をはじめから取り込んでいるからだ。どんな未来が来るにせよ、僕らは良き人物たることを重視する必要がある。今よりずっと。クソ野郎への寛容さは終わらせなければいけない。これはおたくカルチャーとあまりにくっつきすぎている。だからこの星からそれを消し去るしか確かな方法はないと思う。
